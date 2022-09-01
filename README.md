@@ -1,1 +1,2 @@
 # Software-Engineering-P1
+ As a CS major, an account on Github is now considered a professional identity, where you can put your resume, your project, and your idea. You may use it to showcase your projects, your coursework, and your ideas. You may also integrate work by others also available on GitHub. By doing this, you will have an advantage over that one-page resume, which can not properly demonstrate yourself. On the other hand, employers may ask for your GitHub account and evaluate you from there. 
